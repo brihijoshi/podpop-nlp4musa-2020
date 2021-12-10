@@ -31,3 +31,9 @@ If you use this repository in your work, please cite our work:
     pages = "13--17",
 }
 ```
+
+## License
+
+Copyright (c) 2019 Brihi Joshi, Shravika Mittal, Aditya Chetan
+
+For license information, see [LICENSE](LICENSE) or http://mit-license.org
