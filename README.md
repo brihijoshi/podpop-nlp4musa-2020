@@ -8,7 +8,7 @@ accepted at [First Workshop on NLP for Music and Audio, 21st International Socie
 
 ## Presentations
 
-- Paper - [link](https://drive.google.com/file/d/1fPwzroOnWXRD91jYB9RybaueIB3W4P9T/view)
+- Paper - [link](https://aclanthology.org/2020.nlp4musa-1.3/)
 - Poster/Slides - [link](https://drive.google.com/file/d/1i253hj5qXooFgazL22x4r8zJBsMisPEr/view)
 - Video - [YouTube](https://www.youtube.com/watch?v=4e_8meyAmnE&list=PL44xXQ2KNZ0Inxy6ZIol47RkmPWWRCTBQ&index=15) and [Bilibili](https://www.bilibili.com/video/BV1Kk4y1C7jV)
 
