@@ -106,24 +106,6 @@ class TripletDataset(Dataset):
         return (ref_, pos_, neg_)
 
 
-# In[ ]:
-
-
-NUM_EPOCHS = 500
-
-
-LEARNING_RATE = 1e-3
-
-MOMENTUM = 0.9
-WEIGHT_DECAY = 1e-4
-CUDA = True
-MARGIN = 1.
-
-
-cuda = 1
-device = torch.device("cuda:{}".format(cuda) if torch.cuda.is_available() else "cpu")
-NAME = 'triple_training_1'
-
 
 
 
