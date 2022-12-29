@@ -8,7 +8,7 @@ We also acknowledge Yang and other authors for making their dataset publicly acc
 
 ## Accessing processed transcipts
 
-Our processed version of the transripts can be accessed from [here](https://drive.google.com/drive/folders/1hucKLJ1JamPj_M94EivruR4ktzD6uJyb?usp=sharing).
+Our processed version of the transripts can be accessed from [here](https://drive.google.com/drive/folders/0B5HoNU8jNviVfk83ejlRX2w3bkd2WkI0ZVBWS3djWDh4cGhweVh0bXZ3NE02NEJweWJnZ3c?resourcekey=0-LYal3iiqv1Sf5S1pq5rSiA&usp=sharing).
 
 ## Accessing Podcast Triplets
 
