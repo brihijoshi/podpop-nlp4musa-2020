@@ -12,4 +12,4 @@ Our processed version of the transripts can be accessed from [here](https://driv
 
 ## Generating Podcast Triplets
 
-
+You can create triplets used for training and testing our model using `src/get_triplets.py` and the processed dataset.
